@@ -5,7 +5,7 @@ const promoBanners = require("../assets/images/promo-banner.png");
 const focus = require("../assets/images/focus.png");
 
 //dummy flag
-const usFlag = require("../assets/images/us-flag.jpg");
+const rsaFlag = require("../assets/images/rsaFlag.png");
 
 //export images
 export default {
@@ -13,5 +13,5 @@ export default {
   banner,
   promoBanners,
   focus,
-  usFlag,
+  rsaFlag,
 };
